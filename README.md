@@ -24,8 +24,8 @@ Aplicação desenvolvida com **Next.js 15 (App Router)** e **TypeScript** para p
 
 ## Links
 
-- **Repositório no GitHub:** *(adicione aqui o link quando publicar)*
-- **Live Site:** *(opcional, caso publique na Vercel)*
+- **Repositório no GitHub:** *https://github.com/chryspenalber/tarefa-23-testes*
+- **Live Site:** *https://tarefa-23-testes.vercel.app/*
 
 ---
 
@@ -157,8 +157,8 @@ This project was built with **Next.js 15 (App Router)** and **TypeScript** to pr
 
 ## Links
 
-- **GitHub Repository:** *(add your repository URL)*
-- **Live Site:** *(optional)*
+- **GitHub Repository:** *https://github.com/chryspenalber/tarefa-23-testes*
+- **Live Site:** *https://tarefa-23-testes.vercel.app/*
 
 ---
 
